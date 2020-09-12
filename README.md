@@ -24,6 +24,12 @@ I hope my cat will be impressed with how much I care for his education... 😉
 # cat_toilet_alert
 Get alerted when your cat climbs the toilet using computer vision [YOLO v3]
 
+The YOLO model can be downloaded here:
+https://drive.google.com/open?id=1aigceetfLbclV9sDZojcPspoeDsKPv8M
+
+and should be placed in \data\yolo.h5.
+
+
 video example:
 https://drive.google.com/file/d/1lw1XBSVwmFtjpS_IZsI4LXPFwvL-htnS/view?usp=sharing
 
