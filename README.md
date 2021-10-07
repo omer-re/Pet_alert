@@ -33,5 +33,5 @@ and should be placed in \data\yolo.h5.
 video example:
 https://drive.google.com/file/d/1lw1XBSVwmFtjpS_IZsI4LXPFwvL-htnS/view?usp=sharing
 
-using:
+# using:
 replace file path on the notebook file
